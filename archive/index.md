@@ -2,7 +2,7 @@
 
 教育经历 : 中国地质大学（北京）| 矿产普查与勘探 | 本硕 | 2020年毕业
 
-[https://github.com/jony-lee](https://github.com/jony-lee)
+![](https://img.shields.io/badge/--000?&logo=GitHub)[github.com/jony-lee](https://github.com/jony-lee)
 
 [jonylee.cn@gmail.com](mailto:jonylee.cn@gmail.com)
 
