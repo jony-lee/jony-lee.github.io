@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as o,Z as e,$ as c}from"./framework-d5f589df.js";const r={},s=e("h1",{id:"快速开始",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#快速开始","aria-hidden":"true"},"#"),c(" 快速开始")],-1),n=[s];function _(d,h){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","home.html.vue"]]);export{l as default};

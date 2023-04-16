@@ -1,0 +1,1 @@
+import{_ as a,X as r,Y as o,Z as e,$ as t}from"./framework-d5f589df.js";const n={},_=e("h1",{id:"markdown语法结构",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#markdown语法结构","aria-hidden":"true"},"#"),t(" markdown语法结构")],-1),c=[_];function d(s,i){return r(),o("div",null,c)}const h=a(n,[["render",d],["__file","markdown语法结构.html.vue"]]);export{h as default};
