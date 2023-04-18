@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as r,Z as e,$ as s}from"./framework-e45c54a7.js";const _={},o=e("h1",{id:"快速开始",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#快速开始","aria-hidden":"true"},"#"),s(" 快速开始")],-1),c=[o];function n(d,i){return a(),r("div",null,c)}const l=t(_,[["render",n],["__file","start_to_regist.html.vue"]]);export{l as default};
