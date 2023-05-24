@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-79fdd481","path":"/home.html","title":"快速开始","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"createdTime":1684939233000,"updatedTime":1684939233000,"contributors":[{"name":"jony","email":"jonylee.cn@gmail.com","commits":1}]},"readingTime":{"minutes":0.01,"words":4},"filePathRelative":"home.md","localizedDate":"2023年5月24日"}');export{e as data};
